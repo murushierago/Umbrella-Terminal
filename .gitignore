@@ -1,0 +1,15 @@
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build files
+build/
+dist/
+installer_output/
+*.spec
+
+# Local settings
+settings.json
+  
